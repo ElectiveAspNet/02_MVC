@@ -1,0 +1,15 @@
+MVC ROUTES
+
+=================================
+
+1. app.UseMvcWithDefaultRoute();
+
+=================================
+
+2.
+        app.UseMvc(routes =>
+        {
+            routes.MapRoute(
+                name: "default",
+                template: "{controller=Home}/{action=Index}/{id?}");
+        });

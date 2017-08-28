@@ -1,0 +1,11 @@
+using Microsoft.AspNetCore.Mvc;
+
+namespace ConsoleApplication.Controllers
+{
+    public class HomeController : Controller
+    {
+        // GET: /<controller>/
+    
+        // POST: /<controller>/
+    }
+}
