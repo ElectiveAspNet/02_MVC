@@ -1,2 +1,2 @@
-# 02_MVC
-Agenda: Monday 04-09-17 - ASP.NET Core Model-View-Controller
+# Day 2 ASP.NET Core MVC (Model-View-Controller)
+Agenda: Monday 04-09-17
